@@ -1,0 +1,22 @@
+{
+    "name": "nicolacostantino/seven",
+    "description": "A compatibility library like 'Six', but between Python and PHP :)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicola Costantino",
+            "homepage": "https://nicolacostantino.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/array.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.3@dev"
+    }
+}

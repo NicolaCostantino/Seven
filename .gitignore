@@ -1,0 +1,9 @@
+# Vendors
+/vendor/
+
+## Testing
+# Coverage
+coverage.xml
+coverage/
+# PHPUnit
+.phpunit.*
